@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "airbnb"
+  ],
+  "parser": "babel-eslint",
+  "rules": {
+    "strict": [2, "never"],
+    "react/jsx-uses-react": 2,
+    "react/jsx-uses-vars": 2,
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "space-before-function-paren": 0,
+    "generator-star-spacing": 0,
+    "react/jsx-props-no-spreading": 0
+  },
+  "globals": {
+    "alert": true,
+    "fetch": true,
+    "URL": true
+  },
+  "env": {
+    "jest": true
+  }
+}

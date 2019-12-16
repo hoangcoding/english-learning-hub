@@ -1,0 +1,8 @@
+/* src/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+svg {
+    vertical-align: unset;
+}
