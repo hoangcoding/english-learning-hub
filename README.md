@@ -9,7 +9,7 @@
 
 - ***Real-time translation***
 
-- ***Learn words by slider with voice ***
+- ***Learn words by slider with voice***
 
 ## Stacks
 
